@@ -1,10 +1,10 @@
-#! python3
+#!/usr/bin/env python3
 
 # picWorkHrSort.py
 #
 # This program sorts out weekday business hour pics
 #
-# it identifies image files   from brandon's phone camera
+# it identifies image files from android phone camera
 #                           taken during work hours
 #       and moves them into a new folder
 # 
