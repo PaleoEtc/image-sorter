@@ -12,7 +12,10 @@
 
 
 # import modules
-import os, re, datetime, shutil 
+import os
+import re
+import datetime
+import shutil 
 
 # detect the current working directory and print it
 path = os.getcwd()
